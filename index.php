@@ -7,4 +7,6 @@ echo ("<p>");
 echo ("<p>");
 $loader = new \Phalcon\Loader();
 echo "<pre>" .print_r ($loader). "</pre>";
+echo ("<p>");
+echo ("<p>");
 ?>
